@@ -36,7 +36,6 @@ body {
 }
 
 .navbar-nav a:hover {
-    background-color: #555;
     color: #fff;
 }
 
@@ -100,12 +99,12 @@ body {
 }
 
 .navbar .navbar-extra a {
-    color: #f14796;
+    color: rgb(164, 109, 11);
     margin-left: 0.5rem;
 }
 
 .navbar .navbar-extra a:hover {
-     color: rgb(164, 109, 11);
+     color: #ffffff;
 }
 
 #Menu {
